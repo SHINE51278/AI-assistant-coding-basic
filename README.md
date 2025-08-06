@@ -1,2 +1,1 @@
-# AI-assistant-coding-basic
-AI control over the entire development environment....
+
